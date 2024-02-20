@@ -1,0 +1,28 @@
+{
+  "name": "nextjs-web-application",
+  "version": "1.0.0",
+  "description": "A cutting-edge web application leveraging the Next.js framework",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "typescript",
+    "web application"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "typescript": "latest"
+  }
+}
